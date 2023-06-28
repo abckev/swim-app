@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689169855280",
+    "project_id": "swim-application-22a16",
+    "storage_bucket": "swim-application-22a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689169855280:android:341d4d0b7e86e15b16cef5",
+        "android_client_info": {
+          "package_name": "com.example.swim_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689169855280-m06mvmc5e6ibpgebbfnf6cdkfdm6q5q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2i4MqTPnOOPWmLwcYu7aHZl63NDwmDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689169855280-m06mvmc5e6ibpgebbfnf6cdkfdm6q5q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
